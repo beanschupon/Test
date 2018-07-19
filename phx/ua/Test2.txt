@@ -1,0 +1,6 @@
+
+# New File
+This is a new text file that I am commiting to GitHub.
+
+# Test Edit.
+I am editing this file. 
